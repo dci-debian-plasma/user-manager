@@ -1,0 +1,13 @@
+Source: user-manager
+Section: kde
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: debhelper (>= 7.3.16), pkg-kde-tools (>= 0.5.0), cmake,
+ kdelibs5-dev, libpwquality-dev
+Standards-Version: 3.9.4
+
+Package: user-manager
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}, consolekit, accountsservice
+Description: user management tool for the Plasma workspace
+ A System Settings module for managing users on your system.

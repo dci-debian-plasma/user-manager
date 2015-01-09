@@ -1,0 +1,42 @@
+user-manager (0.0~git20140416-0ubuntu1) trusty; urgency=medium
+
+  * New upstream snapshot (LP: #1308589)
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 16 Apr 2014 17:01:37 +0200
+
+user-manager (0.0~git20140211-0ubuntu1) trusty; urgency=medium
+
+  * New upstream snapshot (LP: #1267035)
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 11 Feb 2014 19:42:22 +0100
+
+user-manager (0.0~git20131010-0ubuntu1) saucy; urgency=low
+
+  * New upstream snapshot
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 10 Oct 2013 11:24:52 +0200
+
+user-manager (0.0~git20130930-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 30 Sep 2013 17:01:26 +0100
+
+user-manager (0.0~git20130719-0ubuntu1) saucy; urgency=low
+
+  * New snapshot
+  * Add install depends on accountsservice
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 19 Jul 2013 12:51:52 +0100
+
+user-manager (0.0~git20130223-0ubuntu2) saucy; urgency=low
+
+  * Add a dependency on consolekit; uses its D-Bus interface. 
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 30 Apr 2013 19:20:59 +0000
+
+user-manager (0.0~git20130223-0ubuntu1) raring; urgency=low
+
+  * Initial upload
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 04 Mar 2013 12:31:27 +0000
