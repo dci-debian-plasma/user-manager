@@ -1,4 +1,4 @@
 #!/usr/bin/make -f
 
-%:
-	dh $@ --with kde
+include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
+

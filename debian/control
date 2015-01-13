@@ -1,13 +1,19 @@
 Source: user-manager
 Section: kde
 Priority: extra
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
-Build-Depends: debhelper (>= 7.3.16), pkg-kde-tools (>= 0.5.0), cmake,
- kdelibs5-dev, libpwquality-dev
-Standards-Version: 3.9.4
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: debhelper (>= 9),
+               extra-cmake-modules,
+               libkf5kdelibs4support-dev,
+               libpwquality-dev,
+               pkg-kde-tools (>= 0.5.0)
+Standards-Version: 3.9.6
+Homepage: http://www.kde.org
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/user-manager.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/user-manager.git;a=summary
 
 Package: user-manager
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, consolekit, accountsservice
+Depends: accountsservice, ${misc:Depends}, ${shlibs:Depends}
 Description: user management tool for the Plasma workspace
  A System Settings module for managing users on your system.
