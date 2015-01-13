@@ -1,3 +1,11 @@
+user-manager (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+  * Bump dh compat to 9
+  * Remove consolekit as dependency. It does not appear to be used anymore.
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 13 Jan 2015 09:53:48 +0100
+
 user-manager (0.0~git20140416-0ubuntu1) trusty; urgency=medium
 
   * New upstream snapshot (LP: #1308589)
