@@ -1,6 +1,9 @@
 user-manager (4:5.1.95-1~) UNRELEASED; urgency=medium
 
   * Prepare initial Debian release.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
+  * Add myself as Uploader.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 14:49:18 +0100
 

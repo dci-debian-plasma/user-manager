@@ -1,18 +1,20 @@
 Source: user-manager
 Section: kde
-Priority: extra
+Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Build-Depends: cmake,
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
-               extra-cmake-modules,
+               extra-cmake-modules (>= 0.0.9),
                libkf5kdelibs4support-dev,
                libpwquality-dev,
                pkg-config,
-               pkg-kde-tools (>= 0.5.0)
+               pkg-kde-tools (>= 0.15.16),
+               qtbase5-dev
 Standards-Version: 3.9.6
-Homepage: http://www.kde.org
+Homepage: https://projects.kde.org/projects/kde/workspace/user-manager
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/user-manager.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/user-manager.git;a=summary
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/user-manager.git
 
 Package: user-manager
 Architecture: any
