@@ -45,7 +45,7 @@ user-manager (0.0~git20130719-0ubuntu1) saucy; urgency=low
 
 user-manager (0.0~git20130223-0ubuntu2) saucy; urgency=low
 
-  * Add a dependency on consolekit; uses its D-Bus interface. 
+  * Add a dependency on consolekit; uses its D-Bus interface.
 
  -- Iain Lane <iain.lane@canonical.com>  Tue, 30 Apr 2013 19:20:59 +0000
 
