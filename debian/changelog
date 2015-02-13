@@ -1,3 +1,9 @@
+user-manager (4:5.1.95-1~) UNRELEASED; urgency=medium
+
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 14:49:18 +0100
+
 user-manager (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
   * New upstream release.
