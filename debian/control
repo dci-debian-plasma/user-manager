@@ -6,6 +6,7 @@ Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 0.0.9),
+               kinit-dev,
                libkf5kdelibs4support-dev,
                libpwquality-dev,
                pkg-config,
