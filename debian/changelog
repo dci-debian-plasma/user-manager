@@ -4,6 +4,7 @@ user-manager (4:5.1.95-1~) UNRELEASED; urgency=medium
   * Update build dependencies to build against experimental and to
     follow cmake.
   * Add myself as Uploader.
+  * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 14:49:18 +0100
 
