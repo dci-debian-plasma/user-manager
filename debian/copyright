@@ -1,6 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: user-manager
 Upstream-Maintainer: Alejandro Fiestas Olivares <afiestas@kde.org>
-Upstream-Source: http://www.kde.org
+Source: git://anongit.kde.org/user-manager
 
 Files: *
 Copyright: Copyright 2012, Alejandro Fiestas Olivares <afiestas@kde.org>
