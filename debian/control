@@ -11,7 +11,7 @@ Build-Depends: cmake (>= 2.8.12),
                libpwquality-dev,
                pkg-config,
                pkg-kde-tools (>= 0.15.16),
-               qtbase5-dev
+               qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/user-manager
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/user-manager.git
