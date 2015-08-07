@@ -1,8 +1,9 @@
-user-manager (4:5.2.95-0ubuntu1) UNRELEASED; urgency=medium
+user-manager (4:5.3.95-0ubuntu1) UNRELEASED; urgency=medium
 
   * beta release
+  * new upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 21 Apr 2015 13:58:26 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Aug 2015 18:56:12 +0200
 
 user-manager (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
