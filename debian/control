@@ -4,8 +4,8 @@ Priority: extra
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               extra-cmake-modules,
-               libkf5kdelibs4support-dev,
+               extra-cmake-modules (>= 5.17.0~),
+               libkf5kdelibs4support-dev (>= 5.17.0~),
                libpwquality-dev,
                pkg-config,
                pkg-kde-tools (>= 0.5.0)
