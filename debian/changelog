@@ -4,10 +4,18 @@ user-manager (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
   * New upstream release Xenial
 
   [ Clive Johnston ]
-  * new upstream release
   * New upstream release
 
+  [ Philip Muškovac ]
+  * Merge with debian git master
+
  -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 18:08:25 +0000
+
+user-manager (4:5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:46 +0100
 
 user-manager (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
@@ -20,17 +28,37 @@ user-manager (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:51:01 +0100
 
+user-manager (4:5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:51:58 +0200
+
 user-manager (4:5.4.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 16:04:20 +0100
 
+user-manager (4:5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:45:07 +0200
+
 user-manager (4:5.4.1-0ubuntu1) wily; urgency=medium
 
   * new upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:27:55 +0100
+
+user-manager (4:5.4.0-1) unstable; urgency=medium
+
+  * New upstream release (5.2.95).
+  * New upstream release (5.3.95).
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 19:09:46 +0200
 
 user-manager (4:5.4.0-0ubuntu1) wily; urgency=medium
 
@@ -44,6 +72,16 @@ user-manager (4:5.3.95-0ubuntu1) wily; urgency=medium
   * new upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 23:23:46 +0200
+
+user-manager (4:5.1.95-1) experimental; urgency=medium
+
+  * Prepare initial Debian release.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
+  * Add myself as Uploader.
+  * Update copyright information.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 15:12:19 +0100
 
 user-manager (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
@@ -86,7 +124,7 @@ user-manager (0.0~git20130719-0ubuntu1) saucy; urgency=low
 
 user-manager (0.0~git20130223-0ubuntu2) saucy; urgency=low
 
-  * Add a dependency on consolekit; uses its D-Bus interface. 
+  * Add a dependency on consolekit; uses its D-Bus interface.
 
  -- Iain Lane <iain.lane@canonical.com>  Tue, 30 Apr 2013 19:20:59 +0000
 
