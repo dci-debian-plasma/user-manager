@@ -11,6 +11,7 @@ user-manager (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Clive Johnston ]
   * New upstream release
+  * Removed obsolete field upstream-maintainer in copyright file
 
  -- Clive Johnston <clivejo@aol.com>  Wed, 27 Jan 2016 20:28:00 +0000
 
