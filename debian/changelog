@@ -1,3 +1,9 @@
+user-manager (4:5.5.5-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.5.5).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:14:20 +0100
+
 user-manager (4:5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
