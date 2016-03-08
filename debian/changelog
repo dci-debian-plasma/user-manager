@@ -1,4 +1,4 @@
-user-manager (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
+user-manager (4:5.5.4-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release Xenial
@@ -12,7 +12,7 @@ user-manager (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
   [ Clive Johnston ]
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Wed, 27 Jan 2016 20:28:00 +0000
+ -- Clive Johnston <clivejo@aol.com>  Mon, 07 Mar 2016 21:31:40 +0100
 
 user-manager (4:5.4.3-1) unstable; urgency=medium
 
