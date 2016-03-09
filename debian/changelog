@@ -1,6 +1,11 @@
 user-manager (4:5.5.5-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Philip Muškovac ]
   * New upstream bugfix release
+
+  [ Clive Johnston ]
+  * Removing line 3 of copyright file as it is now an obsolete 
+    field according to Lintian
 
  -- Philip Muškovac <yofel@kubuntu.org>  Tue, 08 Mar 2016 22:36:31 +0100
 
