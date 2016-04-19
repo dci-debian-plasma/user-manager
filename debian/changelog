@@ -1,8 +1,18 @@
-user-manager (4:5.6.2-1~1.gbp934613) UNRELEASED; urgency=medium
+user-manager (4:5.6.3-1~1.gbp4331f3) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @4331f3ab1845969bca9209f205642ec3ae59cbe8 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @934613a0be37036a951378dbf418640a784406f5 **
+  * uscan no longer supports this kind of watch files.
+  * New upstream release (5.5.5).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:38:11 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 17:38:16 +0200
 
 user-manager (4:5.5.4-1) experimental; urgency=medium
 
