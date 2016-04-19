@@ -2,15 +2,7 @@ user-manager (4:5.6.2-1~1.gbp934613) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @934613a0be37036a951378dbf418640a784406f5 **
 
-  * UNRELEASED
-
  -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:38:11 +0200
-
-user-manager (4:5.5.5-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.5.5).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:14:20 +0100
 
 user-manager (4:5.5.4-1) experimental; urgency=medium
 
