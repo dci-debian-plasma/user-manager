@@ -1,3 +1,11 @@
+user-manager (4:5.6.5-1~1.gbpcb6f91) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @cb6f91674e7ce7d06face7ccc33023d90556eef8 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 18:38:08 +0200
+
 user-manager (4:5.6.4-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
