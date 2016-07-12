@@ -1,3 +1,11 @@
+user-manager (4:5.7.1-1~1.gbpa70c0d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a70c0da238adf4142c504a22f59f4cd5f7e709f9 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 18:38:09 +0200
+
 user-manager (4:5.7.0-1) unstable; urgency=medium
 
   * New upstream release.
