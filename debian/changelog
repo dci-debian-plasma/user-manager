@@ -1,11 +1,12 @@
-user-manager (4:5.7.2-1~1.gbp845cda) UNRELEASED; urgency=medium
+user-manager (4:5.7.3-1~1.gbp81f74f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @845cda10d2d1ed464a40c847538b35f76d10dd90 **
+  ** SNAPSHOT build @81f74fd4d120f4fab02de8172817a70604976005 **
 
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:38:13 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 05 Aug 2016 12:49:57 +0200
 
 user-manager (4:5.7.0-1) unstable; urgency=medium
 
