@@ -1,3 +1,11 @@
+user-manager (4:5.8.3-1~1.gbp939e6f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @939e6fd40369326186960c9eb83e70a571e62972 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 17:38:15 +0100
+
 user-manager (4:5.8.2-1) unstable; urgency=medium
 
   * New upstream release (5.8.2)
