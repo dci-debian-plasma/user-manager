@@ -1,11 +1,8 @@
-user-manager (4:5.8.4-1~1.gbp1fb76f) UNRELEASED; urgency=medium
+user-manager (4:5.8.4-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @1fb76f4055b83ad25fce56d8ec684643c472d338 **
+  * New upstream release (5.8.4)
 
-  * UNRELEASED
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 22 Nov 2016 18:38:11 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 18:39:17 +0100
 
 user-manager (4:5.8.2-1) unstable; urgency=medium
 
