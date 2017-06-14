@@ -1,3 +1,15 @@
+user-manager (4:5.8.7-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.8.7)
+     + Make sure the new avatar is always saved
+        The KIO job needs to be run synchronously, otherwise the KCM might be
+        deleted before the job finished. This happens when closing the KCM
+        module with the Ok button, or when closing the System Settings window
+        and clicking Apply.
+        Fixes KDE#350836
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 14 Jun 2017 13:14:54 +0200
+
 user-manager (4:5.8.5-2) unstable; urgency=medium
 
   * Release to unstable.
