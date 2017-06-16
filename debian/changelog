@@ -1,4 +1,4 @@
-user-manager (4:5.8.7-1~) UNRELEASED; urgency=medium
+user-manager (4:5.8.7-1) unstable; urgency=medium
 
   * New upstream release (5.8.7)
      + Make sure the new avatar is always saved
@@ -8,7 +8,7 @@ user-manager (4:5.8.7-1~) UNRELEASED; urgency=medium
         and clicking Apply.
         Fixes KDE#350836
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 14 Jun 2017 13:14:54 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Jun 2017 11:06:20 +0200
 
 user-manager (4:5.8.5-2) unstable; urgency=medium
 
