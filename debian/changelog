@@ -1,8 +1,13 @@
-user-manager (4:5.10.3-1~) UNRELEASED; urgency=medium
+user-manager (4:5.10.4-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.10.3).
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.0.0.
+  * Update upstream metadata
+  * Sync watch file and signing-key.asc with neon
+  * New upstream release (5.10.4).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 11:53:52 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Aug 2017 13:31:07 +0200
 
 user-manager (4:5.8.7-1) unstable; urgency=medium
 
