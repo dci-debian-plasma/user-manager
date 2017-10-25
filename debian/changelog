@@ -1,9 +1,10 @@
-user-manager (4:5.8.7-0neon) UNRELEASED; urgency=medium
+user-manager (4:5.8.8-0neon) UNRELEASED; urgency=medium
 
   * New release
   * New Plasma LTS release
+  * New LTS release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 23 May 2017 14:47:35 +0100
+ -- Jonathan Riddell <jr@jriddell.org>  Wed, 25 Oct 2017 14:56:45 +0100
 
 user-manager (4:5.8.6-0neon) xenial; urgency=medium
 
