@@ -1,3 +1,21 @@
+user-manager (4:5.11.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 24 Oct 2017 16:33:43 +0000
+
+user-manager (4:5.11.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 17 Oct 2017 13:48:25 +0000
+
+user-manager (4:5.11.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 05 Oct 2017 14:34:05 +0000
+
 user-manager (4:5.10.5-0neon) xenial; urgency=medium
 
   * New release
@@ -74,8 +92,9 @@ user-manager (4:5.8.6-0neon) UNRELEASED; urgency=medium
 
   * New release
   * New Plasma LTS release
+  * New LTS release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 23 May 2017 14:47:35 +0100
+ -- Jonathan Riddell <jr@jriddell.org>  Wed, 25 Oct 2017 14:56:45 +0100
 
 user-manager (4:5.8.6-0neon) xenial; urgency=medium
 
